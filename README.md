@@ -10,3 +10,6 @@ now, to install the dependencies, run the following commands:
 and then you need to run the following command: 
 ```npm run dev```
 click on the links it presents you with and there you have your app. 
+
+![image](https://github.com/user-attachments/assets/98b55b9c-14a9-4846-a5e6-b2ae54e20e01)
+
